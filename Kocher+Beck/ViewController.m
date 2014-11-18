@@ -10,14 +10,22 @@
 
 @interface ViewController ()
 
+
 @end
 
 @implementation ViewController
 
+//@synthesize Scroll;
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+ //Scroll.contentSize = CGSizeMake(320.0f, 1500.0f);
+    
+    
 }
+
+//gajshdgajshdgajshdgajshdgajshdg
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

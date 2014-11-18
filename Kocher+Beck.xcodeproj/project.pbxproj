@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C088BA71A1A852B0003DF44 /* Ipad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C088BA61A1A852B0003DF44 /* Ipad.storyboard */; };
 		6C76892C1A0E5D02000CF474 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C76892B1A0E5D02000CF474 /* main.m */; };
 		6C76892F1A0E5D02000CF474 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C76892E1A0E5D02000CF474 /* AppDelegate.m */; };
 		6C7689321A0E5D02000CF474 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C7689311A0E5D02000CF474 /* ViewController.m */; };
@@ -14,7 +15,23 @@
 		6C7689371A0E5D02000CF474 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C7689361A0E5D02000CF474 /* Images.xcassets */; };
 		6C76893A1A0E5D02000CF474 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C7689381A0E5D02000CF474 /* LaunchScreen.xib */; };
 		6C7689461A0E5D02000CF474 /* Kocher_BeckTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C7689451A0E5D02000CF474 /* Kocher_BeckTests.m */; };
+		6CB7BD491A19DB870000B237 /* ManagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD481A19DB870000B237 /* ManagerViewController.m */; };
+		6CB7BD4C1A1A05920000B237 /* ProductionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD4B1A1A05920000B237 /* ProductionsViewController.m */; };
+		6CB7BD4F1A1A1F810000B237 /* NojViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD4E1A1A1F810000B237 /* NojViewController.m */; };
+		6CB7BD521A1A20500000B237 /* DesignerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD511A1A20500000B237 /* DesignerViewController.m */; };
+		6CB7BD541A1A618A0000B237 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CB7BD531A1A618A0000B237 /* MessageUI.framework */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXBuildRule section */
+		6CA18FF61A13CD6C004E6600 /* PBXBuildRule */ = {
+			isa = PBXBuildRule;
+			compilerSpec = com.apple.compilers.proxy.script;
+			fileType = pattern.proxy;
+			isEditable = 1;
+			outputFiles = (
+			);
+		};
+/* End PBXBuildRule section */
 
 /* Begin PBXContainerItemProxy section */
 		6C7689401A0E5D02000CF474 /* PBXContainerItemProxy */ = {
@@ -27,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C088BA61A1A852B0003DF44 /* Ipad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Ipad.storyboard; path = ../Ipad.storyboard; sourceTree = "<group>"; };
 		6C7689261A0E5D02000CF474 /* Kocher+Beck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kocher+Beck.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C76892A1A0E5D02000CF474 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C76892B1A0E5D02000CF474 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +58,15 @@
 		6C76893F1A0E5D02000CF474 /* Kocher+BeckTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Kocher+BeckTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C7689441A0E5D02000CF474 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C7689451A0E5D02000CF474 /* Kocher_BeckTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Kocher_BeckTests.m; sourceTree = "<group>"; };
+		6CB7BD471A19DB870000B237 /* ManagerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ManagerViewController.h; path = ../ManagerViewController.h; sourceTree = "<group>"; };
+		6CB7BD481A19DB870000B237 /* ManagerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ManagerViewController.m; path = ../ManagerViewController.m; sourceTree = "<group>"; };
+		6CB7BD4A1A1A05920000B237 /* ProductionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProductionsViewController.h; path = ../ProductionsViewController.h; sourceTree = "<group>"; };
+		6CB7BD4B1A1A05920000B237 /* ProductionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProductionsViewController.m; path = ../ProductionsViewController.m; sourceTree = "<group>"; };
+		6CB7BD4D1A1A1F810000B237 /* NojViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NojViewController.h; path = ../NojViewController.h; sourceTree = "<group>"; };
+		6CB7BD4E1A1A1F810000B237 /* NojViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NojViewController.m; path = ../NojViewController.m; sourceTree = "<group>"; };
+		6CB7BD501A1A20500000B237 /* DesignerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DesignerViewController.h; path = ../DesignerViewController.h; sourceTree = "<group>"; };
+		6CB7BD511A1A20500000B237 /* DesignerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DesignerViewController.m; path = ../DesignerViewController.m; sourceTree = "<group>"; };
+		6CB7BD531A1A618A0000B237 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CB7BD541A1A618A0000B237 /* MessageUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +91,7 @@
 		6C76891D1A0E5D01000CF474 = {
 			isa = PBXGroup;
 			children = (
+				6CB7BD551A1A61F30000B237 /* Frameworks */,
 				6C7689281A0E5D02000CF474 /* Kocher+Beck */,
 				6C7689421A0E5D02000CF474 /* Kocher+BeckTests */,
 				6C7689271A0E5D02000CF474 /* Products */,
@@ -83,9 +112,18 @@
 			children = (
 				6C76892D1A0E5D02000CF474 /* AppDelegate.h */,
 				6C76892E1A0E5D02000CF474 /* AppDelegate.m */,
+				6CB7BD501A1A20500000B237 /* DesignerViewController.h */,
+				6CB7BD511A1A20500000B237 /* DesignerViewController.m */,
+				6CB7BD4D1A1A1F810000B237 /* NojViewController.h */,
+				6CB7BD4E1A1A1F810000B237 /* NojViewController.m */,
+				6CB7BD4A1A1A05920000B237 /* ProductionsViewController.h */,
+				6CB7BD4B1A1A05920000B237 /* ProductionsViewController.m */,
+				6CB7BD471A19DB870000B237 /* ManagerViewController.h */,
+				6CB7BD481A19DB870000B237 /* ManagerViewController.m */,
 				6C7689301A0E5D02000CF474 /* ViewController.h */,
 				6C7689311A0E5D02000CF474 /* ViewController.m */,
 				6C7689331A0E5D02000CF474 /* Main.storyboard */,
+				6C088BA61A1A852B0003DF44 /* Ipad.storyboard */,
 				6C7689361A0E5D02000CF474 /* Images.xcassets */,
 				6C7689381A0E5D02000CF474 /* LaunchScreen.xib */,
 				6C7689291A0E5D02000CF474 /* Supporting Files */,
@@ -119,6 +157,14 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		6CB7BD551A1A61F30000B237 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6CB7BD531A1A618A0000B237 /* MessageUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -131,6 +177,7 @@
 				6C7689241A0E5D02000CF474 /* Resources */,
 			);
 			buildRules = (
+				6CA18FF61A13CD6C004E6600 /* PBXBuildRule */,
 			);
 			dependencies = (
 			);
@@ -199,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C088BA71A1A852B0003DF44 /* Ipad.storyboard in Resources */,
 				6C7689351A0E5D02000CF474 /* Main.storyboard in Resources */,
 				6C76893A1A0E5D02000CF474 /* LaunchScreen.xib in Resources */,
 				6C7689371A0E5D02000CF474 /* Images.xcassets in Resources */,
@@ -219,8 +267,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CB7BD491A19DB870000B237 /* ManagerViewController.m in Sources */,
 				6C7689321A0E5D02000CF474 /* ViewController.m in Sources */,
+				6CB7BD4F1A1A1F810000B237 /* NojViewController.m in Sources */,
 				6C76892F1A0E5D02000CF474 /* AppDelegate.m in Sources */,
+				6CB7BD521A1A20500000B237 /* DesignerViewController.m in Sources */,
+				6CB7BD4C1A1A05920000B237 /* ProductionsViewController.m in Sources */,
 				6C76892C1A0E5D02000CF474 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -346,6 +398,7 @@
 				INFOPLIST_FILE = "Kocher+Beck/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -356,6 +409,7 @@
 				INFOPLIST_FILE = "Kocher+Beck/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -412,6 +466,7 @@
 				6C76894B1A0E5D02000CF474 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6C76894C1A0E5D02000CF474 /* Build configuration list for PBXNativeTarget "Kocher+BeckTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +475,7 @@
 				6C76894E1A0E5D02000CF474 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
