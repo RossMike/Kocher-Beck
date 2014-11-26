@@ -7,9 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <MessageUI/MessageUI.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <MFMailComposeViewControllerDelegate>
 
+@property (weak, nonatomic) IBOutlet UIImageView *imageViewZoom;
+@property (weak, nonatomic) IBOutlet UIButton *buttonAboutUs;
+@property (weak, nonatomic) IBOutlet UIButton *buttonProduction;
+@property (weak, nonatomic) IBOutlet UIButton *buttonOnlineBooking;
+@property (weak, nonatomic) IBOutlet UIButton *buttonYourManager;
+@property (weak, nonatomic) IBOutlet UIButton *buttonAdvice;
+@property (weak, nonatomic) IBOutlet UIButton *buttonNews;
+- (IBAction)buttonMailForDeveloper:(id)sender;
 
 @end
 

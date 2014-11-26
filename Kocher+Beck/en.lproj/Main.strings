@@ -1,0 +1,183 @@
+
+/* Class = "IBUILabel"; text = "   ВЫРУБНЫЕ ТЕХНОЛОГИИ"; ObjectID = "0e9-ip-moq"; */
+"0e9-ip-moq.text" = "   ВЫРУБНЫЕ ТЕХНОЛОГИИ";
+
+/* Class = "IBUILabel"; text = "Компания Kocher+Beck, первая среди"; ObjectID = "0lg-gC-eDx"; */
+"0lg-gC-eDx.text" = "Компания Kocher+Beck, первая среди";
+
+/* Class = "IBUILabel"; text = "Аслан Шибзухов"; ObjectID = "0oM-vR-gSd"; */
+"0oM-vR-gSd.text" = "Аслан Шибзухов";
+
+/* Class = "IBUILabel"; text = "О нас"; ObjectID = "2Uh-0H-Z1m"; */
+"2Uh-0H-Z1m.text" = "О нас";
+
+/* Class = "IBUILabel"; text = "Менеджер"; ObjectID = "3Aw-qT-cCI"; */
+"3Aw-qT-cCI.text" = "Менеджер";
+
+/* Class = "IBUILabel"; text = "Менеджер"; ObjectID = "3ed-dB-Nsa"; */
+"3ed-dB-Nsa.text" = "Менеджер";
+
+/* Class = "IBUILabel"; text = "Горячее тиснение"; ObjectID = "3kc-by-gwI"; */
+"3kc-by-gwI.text" = "Горячее тиснение";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "4ji-lX-hzq"; */
+"4ji-lX-hzq.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Ольга Шкуро"; ObjectID = "6Jk-vd-yuT"; */
+"6Jk-vd-yuT.text" = "Ольга Шкуро";
+
+/* Class = "IBUILabel"; text = "The quality is always in demand"; ObjectID = "6bn-74-sNw"; */
+"6bn-74-sNw.text" = "The quality is always in demand";
+
+/* Class = "IBUILabel"; text = "занимается производством магнитных"; ObjectID = "7GK-5O-OsF"; */
+"7GK-5O-OsF.text" = "занимается производством магнитных";
+
+/* Class = "IBUIButton"; normalTitle = "Назад"; ObjectID = "9Bv-6z-oJ1"; */
+"9Bv-6z-oJ1.normalTitle" = "Назад";
+
+/* Class = "IBUIButton"; normalTitle = "Главная"; ObjectID = "9Es-zw-Np9"; */
+"9Es-zw-Np9.normalTitle" = "Главная";
+
+/* Class = "IBUILabel"; text = "Магнитные цилиндры"; ObjectID = "9Nn-fH-X53"; */
+"9Nn-fH-X53.text" = "Магнитные цилиндры";
+
+/* Class = "IBUILabel"; text = "Компания Kocher+Beck, первая среди"; ObjectID = "AAy-Ry-nVB"; */
+"AAy-Ry-nVB.text" = "Компания Kocher+Beck, первая среди";
+
+/* Class = "IBUILabel"; text = "Новости"; ObjectID = "AHq-b5-x3R"; */
+"AHq-b5-x3R.text" = "Новости";
+
+/* Class = "IBUILabel"; text = "вырубных ножей. Благодаря ..."; ObjectID = "AnK-bP-Dix"; */
+"AnK-bP-Dix.text" = "вырубных ножей. Благодаря ...";
+
+/* Class = "IBUIButton"; normalTitle = "Связаться с разработчиком"; ObjectID = "B9w-oT-ETr"; */
+"B9w-oT-ETr.normalTitle" = "Связаться с разработчиком";
+
+/* Class = "IBUILabel"; text = "предприятий Европы, еще с 1981 года"; ObjectID = "BQJ-HV-yDj"; */
+"BQJ-HV-yDj.text" = "предприятий Европы, еще с 1981 года";
+
+/* Class = "IBUILabel"; text = "вырубных ножей. Благодаря ..."; ObjectID = "BSH-lm-XBM"; */
+"BSH-lm-XBM.text" = "вырубных ножей. Благодаря ...";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "DIH-9m-Myd"; */
+"DIH-9m-Myd.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Менеджер"; ObjectID = "DXW-of-Tuh"; */
+"DXW-of-Tuh.text" = "Менеджер";
+
+/* Class = "IBUILabel"; text = "Тел: +7 (495) 660-02-28 (129)"; ObjectID = "DuN-lI-2Yb"; */
+"DuN-lI-2Yb.text" = "Тел: +7 (495) 660-02-28 (129)";
+
+/* Class = "IBUILabel"; text = "Ольга Стрельцова"; ObjectID = "H6g-A2-KCX"; */
+"H6g-A2-KCX.text" = "Ольга Стрельцова";
+
+/* Class = "IBUILabel"; text = "The quality is always in demand"; ObjectID = "HTx-CA-jb0"; */
+"HTx-CA-jb0.text" = "The quality is always in demand";
+
+/* Class = "IBUILabel"; text = "Вырубные цилиндры"; ObjectID = "HWa-rd-BmR"; */
+"HWa-rd-BmR.text" = "Вырубные цилиндры";
+
+/* Class = "IBUILabel"; text = "занимается производством магнитных"; ObjectID = "I0c-IL-6Xv"; */
+"I0c-IL-6Xv.text" = "занимается производством магнитных";
+
+/* Class = "IBUILabel"; text = "Менеджер"; ObjectID = "Inc-Md-Nzs"; */
+"Inc-Md-Nzs.text" = "Менеджер";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "IwF-L8-aue"; */
+"IwF-L8-aue.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "предприятий Европы, еще с 1981 года"; ObjectID = "Jwv-Wv-V7a"; */
+"Jwv-Wv-V7a.text" = "предприятий Европы, еще с 1981 года";
+
+/* Class = "IBUILabel"; text = "Советы"; ObjectID = "NAN-iN-dvp"; */
+"NAN-iN-dvp.text" = "Советы";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "RHZ-T1-smi"; */
+"RHZ-T1-smi.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Ольга Смирнова"; ObjectID = "RqW-2I-C1m"; */
+"RqW-2I-C1m.text" = "Ольга Смирнова";
+
+/* Class = "IBUILabel"; text = "Компания Kocher+Beck, первая среди"; ObjectID = "STG-72-Gcp"; */
+"STG-72-Gcp.text" = "Компания Kocher+Beck, первая среди";
+
+/* Class = "IBUILabel"; text = "The quality is always in demand"; ObjectID = "SqM-SB-HVa"; */
+"SqM-SB-HVa.text" = "The quality is always in demand";
+
+/* Class = "IBUILabel"; text = "Тел: +7 (495) 660-02-28 (116)"; ObjectID = "U9a-l4-cZ9"; */
+"U9a-l4-cZ9.text" = "Тел: +7 (495) 660-02-28 (116)";
+
+/* Class = "IBUILabel"; text = "Наталья Шилкина"; ObjectID = "Vc2-N5-eWC"; */
+"Vc2-N5-eWC.text" = "Наталья Шилкина";
+
+/* Class = "IBUIButton"; normalTitle = "Назад"; ObjectID = "WWX-j2-hkx"; */
+"WWX-j2-hkx.normalTitle" = "Назад";
+
+/* Class = "IBUILabel"; text = "предприятий Европы, еще с 1981 года"; ObjectID = "XVq-IF-4UX"; */
+"XVq-IF-4UX.text" = "предприятий Европы, еще с 1981 года";
+
+/* Class = "IBUILabel"; text = "The quality is always in demand"; ObjectID = "XWu-tS-Ebh"; */
+"XWu-tS-Ebh.text" = "The quality is always in demand";
+
+/* Class = "IBUILabel"; text = "Онлайн заказ"; ObjectID = "ZIt-x2-JLy"; */
+"ZIt-x2-JLy.text" = "Онлайн заказ";
+
+/* Class = "IBUILabel"; text = "  Copyright (c) 2014 Alim Tsipinov. All rights reserved."; ObjectID = "bki-ax-je0"; */
+"bki-ax-je0.text" = "  Copyright (c) 2014 Alim Tsipinov. All rights reserved.";
+
+/* Class = "IBUIButton"; normalTitle = "Назад"; ObjectID = "cp4-bO-WWK"; */
+"cp4-bO-WWK.normalTitle" = "Назад";
+
+/* Class = "IBUILabel"; text = "Тел: +7 (495) 660-02-28 (114)"; ObjectID = "eJV-aJ-4ik"; */
+"eJV-aJ-4ik.text" = "Тел: +7 (495) 660-02-28 (114)";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "eV3-Sv-NBG"; */
+"eV3-Sv-NBG.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "erg-Bx-zjg"; */
+"erg-Bx-zjg.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "предприятий Европы, еще с 1981 года"; ObjectID = "f5m-f0-m00"; */
+"f5m-f0-m00.text" = "предприятий Европы, еще с 1981 года";
+
+/* Class = "IBUILabel"; text = "занимается производством магнитных"; ObjectID = "fJa-21-tqF"; */
+"fJa-21-tqF.text" = "занимается производством магнитных";
+
+/* Class = "IBUILabel"; text = "занимается производством магнитных"; ObjectID = "gBn-tE-ErK"; */
+"gBn-tE-ErK.text" = "занимается производством магнитных";
+
+/* Class = "IBUILabel"; text = "вырубных ножей. Благодаря ..."; ObjectID = "hee-ry-qfQ"; */
+"hee-ry-qfQ.text" = "вырубных ножей. Благодаря ...";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "hjV-nJ-Fjc"; */
+"hjV-nJ-Fjc.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Ваш менеджер"; ObjectID = "jQQ-9w-WQl"; */
+"jQQ-9w-WQl.text" = "Ваш менеджер";
+
+/* Class = "IBUILabel"; text = "Тел: +7 (495) 660-02-28 (112)"; ObjectID = "kA9-3d-wE7"; */
+"kA9-3d-wE7.text" = "Тел: +7 (495) 660-02-28 (112)";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "l5Y-rW-dqu"; */
+"l5Y-rW-dqu.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Вырубные ножи"; ObjectID = "oLy-hp-ulU"; */
+"oLy-hp-ulU.text" = "Вырубные ножи";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "ofW-Gv-on2"; */
+"ofW-Gv-on2.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Продукция"; ObjectID = "t9b-eP-dLF"; */
+"t9b-eP-dLF.text" = "Продукция";
+
+/* Class = "IBUILabel"; text = "вырубных ножей. Благодаря ..."; ObjectID = "v1N-gc-VUW"; */
+"v1N-gc-VUW.text" = "вырубных ножей. Благодаря ...";
+
+/* Class = "IBUILabel"; text = "Компания Kocher+Beck, первая среди"; ObjectID = "v8T-NC-pzl"; */
+"v8T-NC-pzl.text" = "Компания Kocher+Beck, первая среди";
+
+/* Class = "IBUILabel"; text = "Тел: +7 (495) 660-02-28 (117)"; ObjectID = "wrH-Kt-OF0"; */
+"wrH-Kt-OF0.text" = "Тел: +7 (495) 660-02-28 (117)";
+
+/* Class = "IBUILabel"; text = "Руководитель отдела менеджеров"; ObjectID = "yxq-8s-gZB"; */
+"yxq-8s-gZB.text" = "Руководитель отдела менеджеров";
