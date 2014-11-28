@@ -20,6 +20,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     managerScroll.contentSize = CGSizeMake(320.0f, 1000.0f);
+    self.imageViewClickShilkina.canClick = YES;
+    self.imageViewClickShkurko.canClick = YES;
+    self.imageViewClickSmirnova.canClick = YES;
+    self.imageViewClickStrelcova.canClick = YES;
  
 }
 

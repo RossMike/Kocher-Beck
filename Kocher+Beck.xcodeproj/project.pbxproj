@@ -20,6 +20,7 @@
 		6CB7BD4F1A1A1F810000B237 /* NojViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD4E1A1A1F810000B237 /* NojViewController.m */; };
 		6CB7BD521A1A20500000B237 /* DesignerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CB7BD511A1A20500000B237 /* DesignerViewController.m */; };
 		6CB7BD541A1A618A0000B237 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CB7BD531A1A618A0000B237 /* MessageUI.framework */; };
+		CE0E0E921A28A844006BB5F2 /* ClickImage.m in Sources */ = {isa = PBXBuildFile; fileRef = CE0E0E911A28A844006BB5F2 /* ClickImage.m */; };
 		CE977AB71A23590B00DD6096 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE977AB61A23590B00DD6096 /* Entitlements.plist */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,8 @@
 		6CB7BD501A1A20500000B237 /* DesignerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DesignerViewController.h; path = ../DesignerViewController.h; sourceTree = "<group>"; };
 		6CB7BD511A1A20500000B237 /* DesignerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DesignerViewController.m; path = ../DesignerViewController.m; sourceTree = "<group>"; };
 		6CB7BD531A1A618A0000B237 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		CE0E0E901A28A844006BB5F2 /* ClickImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClickImage.h; sourceTree = SOURCE_ROOT; };
+		CE0E0E911A28A844006BB5F2 /* ClickImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClickImage.m; sourceTree = SOURCE_ROOT; };
 		CE977AB61A23590B00DD6096 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		CECF7A171A247A7B0053669F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -114,6 +117,8 @@
 		6C7689281A0E5D02000CF474 /* Kocher+Beck */ = {
 			isa = PBXGroup;
 			children = (
+				CE0E0E901A28A844006BB5F2 /* ClickImage.h */,
+				CE0E0E911A28A844006BB5F2 /* ClickImage.m */,
 				6C76892D1A0E5D02000CF474 /* AppDelegate.h */,
 				6C76892E1A0E5D02000CF474 /* AppDelegate.m */,
 				6CB7BD501A1A20500000B237 /* DesignerViewController.h */,
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE0E0E921A28A844006BB5F2 /* ClickImage.m in Sources */,
 				6CB7BD491A19DB870000B237 /* ManagerViewController.m in Sources */,
 				6C7689321A0E5D02000CF474 /* ViewController.m in Sources */,
 				6CB7BD4F1A1A1F810000B237 /* NojViewController.m in Sources */,
