@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>Application Version</key>
+	<string>9.4</string>
+	<key>Archive Path</key>
+	<string>/Users/user/Pictures/iPhoto Library.photolibrary</string>
+	<key>ArchiveId</key>
+	<string>1</string>
+	<key>Major Version</key>
+	<integer>2</integer>
+	<key>Minor Version</key>
+	<integer>0</integer>
+	<key>List of Albums</key>
+	<array>
+		<dict>
+			<key>AlbumId</key>
+			<integer>4</integer>
+			<key>AlbumName</key>
+			<string>Photos</string>
+			<key>Album Type</key>
+			<string>99</string>
+			<key>GUID</key>
+			<string>allPhotosAlbum</string>
+			<key>Master</key><true/>
+			<key>TransitionSpeed</key>
+			<real>1.000000</real>
+			<key>ShuffleSlides</key><false/>
+			<key>KeyList</key>
+			<array>
+				<string>1</string>
+				<string>3</string>
+				<string>5</string>
+				<string>9</string>
+				<string>11</string>
+				<string>13</string>
+				<string>15</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>7</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>10</integer>
+			<key>AlbumName</key>
+			<string>Flagged</string>
+			<key>Album Type</key>
+			<string>Flagged</string>
+			<key>GUID</key>
+			<string>flaggedAlbum</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+			</array>
+			<key>PhotoCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>7</integer>
+			<key>AlbumName</key>
+			<string>Last 12 Months</string>
+			<key>Album Type</key>
+			<string>Special Month</string>
+			<key>GUID</key>
+			<string>lastNMonthsAlbum</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+				<string>9</string>
+				<string>11</string>
+				<string>13</string>
+				<string>15</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>8</integer>
+			<key>AlbumName</key>
+			<string>Last Import</string>
+			<key>Album Type</key>
+			<string>Regular</string>
+			<key>GUID</key>
+			<string>lastImportAlbum</string>
+			<key>TransitionSpeed</key>
+			<real>1.000000</real>
+			<key>ShuffleSlides</key><false/>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyList</key>
+			<array>
+				<string>9</string>
+				<string>11</string>
+				<string>13</string>
+				<string>15</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>27</integer>
+			<key>GUID</key>
+			<string>0quPtt9SQbKx2KTM9PWp1Q</string>
+			<key>AlbumName</key>
+			<string>Feb 2, 2013</string>
+			<key>Album Type</key>
+			<string>Event</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyPhotoKey</key>
+			<string>3</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>381537174.00</real>
+			<key>KeyList</key>
+			<array>
+				<string>3</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>28</integer>
+			<key>GUID</key>
+			<string>EeCLkSV8SxuEBouVohb1Yw</string>
+			<key>AlbumName</key>
+			<string>Feb 17, 2013</string>
+			<key>Album Type</key>
+			<string>Event</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyPhotoKey</key>
+			<string>5</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>382828218.00</real>
+			<key>KeyList</key>
+			<array>
+				<string>5</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>132</integer>
+			<key>GUID</key>
+			<string>Id5+t9F5TvWycD29UrkICw</string>
+			<key>AlbumName</key>
+			<string>Mar 31, 2014</string>
+			<key>Album Type</key>
+			<string>Event</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyPhotoKey</key>
+			<string>9</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>417971591.00</real>
+			<key>KeyList</key>
+			<array>
+				<string>9</string>
+				<string>11</string>
+				<string>13</string>
+				<string>15</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>AlbumId</key>
+			<integer>26</integer>
+			<key>GUID</key>
+			<string>I1jNGpsLTiShN7saKg61fQ</string>
+			<key>AlbumName</key>
+			<string>Dec 26, 2012</string>
+			<key>Album Type</key>
+			<string>Event</string>
+			<key>Sort Order</key>
+			<string>1</string>
+			<key>KeyPhotoKey</key>
+			<string>1</string>
+			<key>ProjectEarliestDateAsTimerInterval</key>
+			<real>378208533.00</real>
+			<key>KeyList</key>
+			<array>
+				<string>1</string>
+			</array>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>List of Rolls</key>
+	<array>
+		<dict>
+			<key>RollID</key>
+			<integer>8</integer>
+			<key>ProjectUuid</key>
+			<string>I1jNGpsLTiShN7saKg61fQ</string>
+			<key>RollName</key>
+			<string>Dec 26, 2012</string>
+			<key>RollDateAsTimerInterval</key>
+			<real>378201333.000000</real>
+			<key>KeyPhotoKey</key>
+			<string>1</string>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+			<key>KeyList</key>
+			<array>
+			<string>1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>RollID</key>
+			<integer>10</integer>
+			<key>ProjectUuid</key>
+			<string>0quPtt9SQbKx2KTM9PWp1Q</string>
+			<key>RollName</key>
+			<string>Feb 2, 2013</string>
+			<key>RollDateAsTimerInterval</key>
+			<real>381529974.000000</real>
+			<key>KeyPhotoKey</key>
+			<string>3</string>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+			<key>KeyList</key>
+			<array>
+			<string>3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>RollID</key>
+			<integer>12</integer>
+			<key>ProjectUuid</key>
+			<string>EeCLkSV8SxuEBouVohb1Yw</string>
+			<key>RollName</key>
+			<string>Feb 17, 2013</string>
+			<key>RollDateAsTimerInterval</key>
+			<real>382821018.000000</real>
+			<key>KeyPhotoKey</key>
+			<string>5</string>
+			<key>PhotoCount</key>
+			<integer>1</integer>
+			<key>KeyList</key>
+			<array>
+			<string>5</string>
+			</array>
+		</dict>
+		<dict>
+			<key>RollID</key>
+			<integer>15</integer>
+			<key>ProjectUuid</key>
+			<string>Id5+t9F5TvWycD29UrkICw</string>
+			<key>RollName</key>
+			<string>Mar 31, 2014</string>
+			<key>RollDateAsTimerInterval</key>
+			<real>417960791.000000</real>
+			<key>KeyPhotoKey</key>
+			<string>9</string>
+			<key>PhotoCount</key>
+			<integer>4</integer>
+			<key>KeyList</key>
+			<array>
+			<string>9</string>
+			<string>11</string>
+			<string>13</string>
+			<string>15</string>
+			</array>
+		</dict>
+	</array>
+	<key>List of Faces</key>
+	<dict>
+	</dict>
+	<key>Master Image List</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0015</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>cKdzJZaoSHODStVpw4cI1A</string>
+			<key>Roll</key>
+			<integer>8</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2013/09/05/20130905-154822/IMG_0015.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>378201333.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>378201333.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>378208533.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>400078113.388589</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2013/09/05/20130905-154822/cKdzJZaoSHODStVpw4cI1A/IMG_0015.jpg</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0016</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>ib9C8aQcSyqFjVz3D5S9%Q</string>
+			<key>Roll</key>
+			<integer>10</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2013/09/05/20130905-154822/IMG_0016.JPG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>381529974.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>381529974.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>381537174.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>400078113.387920</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2013/09/05/20130905-154822/ib9C8aQcSyqFjVz3D5S9%Q/IMG_0016.jpg</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0021</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>dAyO2n%dQmmfZfq1TOLD3w</string>
+			<key>Roll</key>
+			<integer>12</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2013/09/05/20130905-154822/IMG_0021.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>382821018.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>382821018.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>382828218.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>400078113.387296</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2013/09/05/20130905-154822/dAyO2n%dQmmfZfq1TOLD3w/IMG_0021.jpg</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0007</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>4BXQkq%sRIq+Uf2UX%%02g</string>
+			<key>Roll</key>
+			<integer>15</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2014/11/13/20141113-153937/IMG_0007.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>417960791.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>417960791.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>417971591.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>437578797.313561</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2014/11/13/20141113-153937/4BXQkq%sRIq+Uf2UX%%02g/IMG_0007.jpg</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0008</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>i+hVPBnhTnyfUjdNisQ+5Q</string>
+			<key>Roll</key>
+			<integer>15</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2014/11/13/20141113-153937/IMG_0008.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>417960794.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>417960794.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>417971594.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>437578797.314128</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2014/11/13/20141113-153937/i+hVPBnhTnyfUjdNisQ+5Q/IMG_0008.jpg</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0009</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>9xycEbKpQrCvHiop4kQcfQ</string>
+			<key>Roll</key>
+			<integer>15</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2014/11/13/20141113-153937/IMG_0009.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>417960838.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>417960838.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>417971638.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>437578800.593059</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2014/11/13/20141113-153937/9xycEbKpQrCvHiop4kQcfQ/IMG_0009.jpg</string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Caption</key>
+			<string>IMG_0010</string>
+			<key>Comment</key>
+			<string> </string>
+			<key>GUID</key>
+			<string>3Pw3Iv2oTfeQ%hLHuLsrGQ</string>
+			<key>Roll</key>
+			<integer>15</integer>
+			<key>Rating</key>
+			<integer>0</integer>
+			<key>ImagePath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Masters/2014/11/13/20141113-153937/IMG_0010.PNG</string>
+			<key>MediaType</key>
+			<string>Image</string>
+			<key>ModDateAsTimerInterval</key>
+			<real>417960843.000000</real>
+			<key>DateAsTimerInterval</key>
+			<real>417960843.000000</real>
+			<key>DateAsTimerIntervalGMT</key>
+			<real>417971643.000000</real>
+			<key>MetaModDateAsTimerInterval</key>
+			<real>437578800.593850</real>
+			<key>ThumbPath</key>
+			<string>/Users/user/Pictures/iPhoto Library.photolibrary/Thumbnails/2014/11/13/20141113-153937/3Pw3Iv2oTfeQ%hLHuLsrGQ/IMG_0010.jpg</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
